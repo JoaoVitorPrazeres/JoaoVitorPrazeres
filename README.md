@@ -36,6 +36,5 @@
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=tokyonight"/>
 </div>
----
 
 ### Obrigado por visitar meu perfil! 🚀
