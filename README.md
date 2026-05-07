@@ -32,9 +32,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=JoaoVitorPrazeres&theme=tokyonight"/>
+       src="https://github-readme-stats.shion.dev/api?username=JoaoVitorPrazeres&theme=dark"/>
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=tokyonight"/>
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=dark"/>
 </div>
 
 ### Obrigado por visitar meu perfil! 🚀
